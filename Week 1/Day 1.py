@@ -1,4 +1,4 @@
-print("Challenge 1: Find Numbers with Even Number of Digits\n")
+print("\nChallenge 1 (LeetCode): Find Numbers with Even Number of Digits")
 
 class EvenDigits:
     def findNumbers(self, nums: list[int]) -> int:
@@ -12,7 +12,7 @@ nums = [1, 22, 333, 4444, 55555]
 result = solution.findNumbers(nums)
 print(f"Total count of numbers with even digit length: {result}")
 
-print("\nChallenge 2: Missing Number in the Range")
+print("\nChallenge 2 (FACEPrep): Find the Missing Number in the Range")
 
 class MissingNum:
     def missingNumber(self, nums: list[int]) -> int:
@@ -21,6 +21,6 @@ class MissingNum:
         actual_sum = sum(nums)
         return expected_sum - actual_sum
 missing_num = MissingNum()
-nums = [7, 0, 1]
+nums = [3, 0, 1]
 result = missing_num.missingNumber(nums)
 print(f"The missing number is: {result}")
