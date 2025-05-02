@@ -9,7 +9,7 @@ Goals
 
 Acknowledgments
 - Inspired by Shri Ram sir for his guidance and motivation.
-- Part of the #DrGVishwanathanChallenge at VIT Bhopal.
+- Part of the #DrGViswanathanChallenge at VIT Bhopal.
 - Thanks to LeetCode and GeeksforGeeks for providing amazing problem sets.
 
 Making my parents proud would be an amazing feat for me, and for which I'm happy to work as hard as I can.
