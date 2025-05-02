@@ -1,4 +1,5 @@
 print("\n\nDay 6\n")
+
 print("\nChallenge 1 (GeeksforGeeks): Bitonic Point")
 print("Context: Given an array of integers arr[] that is first strictly increasing and then maybe strictly decreasing, find the bitonic point, that is the maximum element in the array. Bitonic Point is a point before which elements are strictly increasing and after which elements are strictly decreasing.\n")
 
