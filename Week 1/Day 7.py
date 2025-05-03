@@ -1,6 +1,6 @@
 print("\n\nDay 7\n")
 
-print("\nChallenge: Check if the number is Palindrome")
+print("\nChallenge (FACEprep): Check if the number is Palindrome")
 class Palindrome:
     def isPalindrome(self, x: int) -> bool:
         if x < 0:
