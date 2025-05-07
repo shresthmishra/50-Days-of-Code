@@ -1,7 +1,7 @@
 print("\n\nDay 11\n")
 
 print("\nChallenge (FACEprep): Excel Sheet Column Number")
-print("Context: Given a string columnTitle that represents the column title as appears in an Excel sheet, return its corresponding column number.")
+print("Context: Given a string columnTitle that represents the column title as appears in an Excel sheet, return its corresponding column number.\n\n")
 
 class Excel:
     def titleToNumber(self, columnTitle: str) -> int:
