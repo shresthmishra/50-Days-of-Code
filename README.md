@@ -1,6 +1,8 @@
 Welcome to my 50 Days of Code journey! Inspired by Shri Ram sir, I'm participating in the #DrGViswanathanChallenge as part of my coding journey at VIT Bhopal. 
 Over the next 50 days, I'll be solving coding problems, improving my skills, and documenting my progress here.
 
+I appreciate you mummy and papa, for everything. 
+
 Goals
 - Solve at least one coding problem per day for 50 days.
 - Enhance my problem-solving skills in Python.
