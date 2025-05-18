@@ -5,7 +5,7 @@ print("Context: You are given an array prices where prices[i] is the price of a 
       
 from typing import List
 
-class Solution:
+class Stocks:
     def maxProfit(self, prices: List[int]) -> int:
         if len(prices) < 2:
             return 0
@@ -18,9 +18,8 @@ class Solution:
                 current_profit = price - min_price
                 max_profit = max(max_profit, current_profit)
         return max_profit
-
-# Sample Usage
-solution = Solution()
+    
+solution = Stocks()
 prices = [7, 1, 5, 3, 6, 4]
 max_profit = solution.maxProfit(prices)
 print(f"For the given prices {prices}, the maximum profit is: {max_profit}")
