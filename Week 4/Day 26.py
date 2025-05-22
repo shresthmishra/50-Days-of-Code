@@ -21,7 +21,6 @@ class InsertPosition:
 
         return left
 
-# Sample Usage
 solution = InsertPosition()
 numbers = [1, 3, 5, 6]
 target_value = 5
