@@ -15,3 +15,5 @@ solution = Hammer()
 input_n = 11  # Binary: 1011, expected 1-bits: 3
 result = solution.hammingWeight(input_n)
 print(f"The number of 1 bits in {input_n} is: {result}")
+
+print("\n\nCheers to this journey! Have a good one.")
