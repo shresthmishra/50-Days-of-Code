@@ -8,3 +8,18 @@ Recall that the number of set bits an integer has is the number of 1's present w
     For example, 21 written in binary is 10101, which has 3 set bits.\n\n
 ''')
 
+class Prime:
+    def countPrimeSetBits(self, left: int, right: int) -> int:
+        primes = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31}
+        count = 0
+        for num in range(left, right + 1):
+            set_bits = bin(num).count('1')
+            if set_bits in primes:
+                count += 1
+        return count
+
+solution = Prime()
+left_val = 6
+right_val = 10
+result = solution.countPrimeSetBits(left_val, right_val)
+print(f"The count of numbers with a prime number of set bits between {left_val} and {right_val} is: {result}")
