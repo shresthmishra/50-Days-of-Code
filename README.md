@@ -1,3 +1,6 @@
+UPDATE (June 15, 2025)
+I’ve officially completed my #50DaysOfCode challenge with 50+ problems solved! This journey has been amazing, pushing me to grow in algorithmic thinking and problem-solving. 
+
 Welcome to my 50 Days of Code journey! 
 I'm participating in the #DrGViswanathanChallenge as part of my coding journey at VIT Bhopal. 
 Over the next 50 days, I'll be solving coding problems, improving my skills, and documenting my progress here.
